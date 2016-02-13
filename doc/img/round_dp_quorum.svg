@@ -15,7 +15,7 @@
    height="230.36816"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="round_dp_quorum.svg"
    inkscape:export-filename="/Users/skonno/Src/round/doc/img/round_dp_quorum.png"
    inkscape:export-xdpi="140"
@@ -210,16 +210,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.1692372"
-     inkscape:cx="449.03263"
+     inkscape:cx="305.2395"
      inkscape:cy="91.808188"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      showguides="false"
-     inkscape:window-width="1816"
-     inkscape:window-height="1012"
-     inkscape:window-x="11"
-     inkscape:window-y="0"
+     inkscape:window-width="2154"
+     inkscape:window-height="1212"
+     inkscape:window-x="303"
+     inkscape:window-y="37"
      inkscape:window-maximized="0"
      inkscape:snap-global="true"
      fit-margin-top="0"
@@ -244,7 +244,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -336,7 +336,7 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode, Normal';"
        x="225"
        y="152.3622"
        id="text4083"
@@ -353,18 +353,18 @@
        sodipodi:cy="195.19922"
        sodipodi:rx="42.5"
        sodipodi:ry="20"
-       d="m -177.10059,195.19922 c 0,11.04569 -19.02789,20 -42.5,20 -23.4721,0 -42.5,-8.95431 -42.5,-20 0,-11.0457 19.0279,-20 42.5,-20 23.47211,0 42.5,8.9543 42.5,20 z"
+       d="m -177.10059,195.19922 a 42.5,20 0 0 1 -42.5,20 42.5,20 0 0 1 -42.5,-20 42.5,20 0 0 1 42.5,-20 42.5,20 0 0 1 42.5,20 z"
        transform="translate(327.10059,-17.837018)" />
     <text
        sodipodi:linespacing="125%"
        id="text4078"
        y="180.36218"
-       x="95.999985"
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="93.234039"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan4080"
          y="180.36218"
-         x="95.999985"
+         x="93.234039"
          sodipodi:role="line">Client</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.58333325;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutM)"
@@ -376,7 +376,7 @@
        id="text5745"
        y="185.3622"
        x="285"
-       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-size:7.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode, Normal';"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan3188"
@@ -384,7 +384,7 @@
          y="185.3622">Exec Method</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-size:6.00000024px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode, Normal';"
        x="170"
        y="172.3622"
        id="text3156"
@@ -405,7 +405,7 @@
        id="text5745-3"
        y="214.3622"
        x="478"
-       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-size:7.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode, Normal';"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan3235"
@@ -421,7 +421,7 @@
        id="text3300"
        y="177.36221"
        x="355"
-       style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-size:6.00000024px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode, Normal';"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan3314"
@@ -434,7 +434,7 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-size:7.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode, Normal';"
        x="285"
        y="319.36221"
        id="text4157"
@@ -450,7 +450,7 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-size:6.00000024px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode, Normal';"
        x="355"
        y="197.3622"
        id="text4182"
@@ -464,7 +464,7 @@
        id="text4190"
        y="217.3622"
        x="355"
-       style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-size:6.00000024px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode, Normal';"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan4192"
@@ -472,7 +472,7 @@
          y="217.3622"> {&quot;jsonrpc&quot;: &quot;2.0&quot;, &quot;result&quot;: xxxxx, ....}</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-size:6.00000024px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode, Normal';"
        x="355"
        y="237.3622"
        id="text4198"
@@ -486,7 +486,7 @@
        id="text4221"
        y="292.36221"
        x="265"
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode, Normal';"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan4225"
@@ -507,7 +507,7 @@
        id="text5246"
        y="122.3622"
        x="295"
-       style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-size:6.00000024px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode, Normal';"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan5248"
@@ -521,7 +521,7 @@
        transform="translate(64.000004,117.99403)" />
     <text
        xml:space="preserve"
-       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-size:7.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode, Normal';"
        x="603"
        y="215.3622"
        id="text4072"
@@ -540,7 +540,7 @@
        id="text4084"
        y="320.36218"
        x="603"
-       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-size:7.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode, Normal';"
        xml:space="preserve"><tspan
          y="320.36218"
          x="603"
